@@ -1,4 +1,5 @@
 # collection of mini projects implemented in SFML
+1. 2d Visibility
 1. Barnsley fern generator
 2. Breadth-first search
    - Controls:
